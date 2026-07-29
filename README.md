@@ -2,7 +2,7 @@
 
 **2026年稳定好用的国内翻墙梯子首选Clash节点机场，完全替代了传统的VPN梯子加速器。适用于全平台Clash客户端使用，包括 Clash for Windows、Clash Verge、ClashX、Shadowrocket、v2rayN、sing-box 等多种翻墙软件，这些Clash节点机场提供了Clash和shadowrocket节点订阅地址链接，可一键导入使用。节点机场并非VPN加速器，但是比VPN加速器更加适合用来翻墙和科学上网使用。**
 
-本文推荐的翻墙机场梯子都是有一定知名度的大机场，或者说是一线机场、主流机场、性价比机场。大机场一般技术更为成熟，线路比较稳定，跑路的风险也低，同时也能很好的支持解锁 Netflix、Disney+ 流媒体，提供 ChatGPT Gemini 解锁访问等等。机场采用专用的穿墙技术而非传统的 VPN 协议，辅以规则模式分流，相比 ExpressVPN 等傻瓜式一键 VPN 更为智能，稳定性和速度表现都更好，能够最大程度地满足大家的科学上网需求。可以说机场是当前最适合大多数人的翻墙方式。
+本文推荐的翻墙机场梯子都是有一定知名度的大机场，或者说是一线机场、主流机场、性价比机场。大机场一般技术更为成熟，线路比较稳定，跑路的风险也低，同时也能很好的支持解锁 Netflix、Disney+ 流媒体，提供 ChatGPT Gemini Claude 解锁访问等等。机场采用专用的穿墙技术而非传统的 VPN 协议，辅以规则模式分流，相比 ExpressVPN 等傻瓜式一键 VPN 更为智能，稳定性和速度表现都更好，能够最大程度地满足大家的科学上网需求。可以说机场是当前最适合大多数人的翻墙方式。
 
 ![](https://community-all-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/e/e8a2550b428fa867c333068b5098189aa709e27f.jpeg)
 
@@ -104,7 +104,7 @@
 * Netflix、Disney+等国际流媒体与TikTok、ChatGPT 全解锁
 * 超高性价比，包月仅 19 元，100GB 流量
 * 支持 24 小时不满意退款，降低试错成本
-* 官网领取活动折扣码可参与85折优惠
+* 官网领取活动折扣码可参与7折优惠 折扣码：YX51666
 
 优信云机场加速器，提供抗封锁能力强的 Trojan 协议翻墙机场节点，支持企业个性化定制，支持一键导入支持 Clash、Shadowrocket、小火箭等翻墙插件。优信云机场拥有130多条线路，节点众多分布广泛。可解锁流媒体包括 ChatGPT、Disney+、Netflix、TikTok 等。
 
