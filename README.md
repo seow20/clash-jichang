@@ -1,4 +1,4 @@
-# 2026 Clash机场推荐︱性价比机场梯子︱好用的VPN加速器梯子工具小火箭节点
+# 2026 Clash机场推荐︱性价比机场梯子︱好用的VPN加速器魔法梯子工具小火箭节点
 
 **2026年稳定好用的国内翻墙梯子首选Clash节点机场，完全替代了传统的VPN梯子加速器。适用于全平台Clash客户端使用，包括 Clash for Windows、Clash Verge、ClashX、Shadowrocket、v2rayN、sing-box 等多种翻墙软件，这些Clash节点机场提供了Clash和shadowrocket节点订阅地址链接，可一键导入使用。节点机场魔法梯子并非VPN加速器，但是比VPN加速器更加适合用来翻墙和科学上网使用。**
 
@@ -41,7 +41,7 @@
 * Shadowsocks 和 V2ray （vmess）多协议
 * Netflix、Disney+、TikTok、ChatGPT、Gemini全解锁，实测晚高峰4K秒开
 * 提供永久有效按流量计费套餐
-* **新老用户任意套餐年付6.9折优惠，优惠码：yf6189**
+* **新老用户任意套餐年付6.9折优惠，优惠码：yf5169**
 * 支持24小时不满意退款服务
 * 24小时在线客服，响应迅速
 
